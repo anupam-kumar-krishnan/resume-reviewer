@@ -350,7 +350,7 @@ export const usePuterStore = create<PuterStore>((set, get) => {
           ],
         },
       ],
-      { model: "claude-sonnet-4" }
+      { model: "claude-3-7-sonnet" }
     ) as Promise<AIResponse | undefined>;
   };
 
@@ -437,7 +437,7 @@ export const usePuterStore = create<PuterStore>((set, get) => {
         imageURL?: string | PuterChatOptions,
         testMode?: boolean,
         options?: PuterChatOptions
-      ) => chat(prompt, imageURL, testMode, options),
+      ) => chat(prompt, `imageURL`, testMode, options),
       feedback: (path: string, message: string) => feedback(path, message),
       img2txt: (image: string | File | Blob, testMode?: boolean) =>
         img2txt(image, testMode),
