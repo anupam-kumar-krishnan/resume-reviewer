@@ -8,7 +8,7 @@ import { usePuterStore } from "~/lib/puter";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Resumind" },
+    { title: "Resume Reviewer" },
     { name: "description", content: "Smart Feedback for your dream job!" },
   ];
 }

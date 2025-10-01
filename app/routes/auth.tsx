@@ -1,5 +1,5 @@
 export const meta = () => [
-  { title: "Resumind | Auth" },
+  { title: "Resume Reviewer | Auth" },
   { name: "description", content: "Log into your Account" },
 ];
 
