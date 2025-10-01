@@ -7,6 +7,7 @@ const ResumeCard = ({
 }: {
   resume: Resume;
 }) => {
+  
   return (
     <Link
       to={`/resume/${id}`}

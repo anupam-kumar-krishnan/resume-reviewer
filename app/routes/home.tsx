@@ -14,7 +14,7 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  const { auth } = usePuterStore();
+  const { auth, fs } = usePuterStore();
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -22,7 +22,7 @@ export default function Home() {
   }, [auth.isAuthenticated]);
 
   return (
-    <main className="bg-[url('/images/bg-main.svg')] bg-cover">
+    <main className="bg-[url('/images/bg-home.svg')] bg-cover">
       <Navbar />
 
       <section className="main-section">
