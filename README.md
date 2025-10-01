@@ -15,7 +15,7 @@ A Smart AI Resume Reviewer where you can paste Job Requirement, Upload Resume, a
 
 ### Login Screen
 
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login-screen.png)
 
 ### Home Page
 
