@@ -1,6 +1,6 @@
 # AI Resume Reviewer
 
-A smart AI Resume Reviewer where you can paste job requirement, upload resumea, and let AI instantly evaluate and match candidates to the right roles.
+A Smart AI Resume Reviewer where you can paste Job Requirement, Upload Resume, and let AI instantly evaluate and match candidates to the right roles.
 
 ## Tech Stack
 
