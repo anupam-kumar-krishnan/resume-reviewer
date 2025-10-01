@@ -1,4 +1,4 @@
-# AI Resume Reviewer 🔍
+# _AI Resume Reviewer_ 🔍
 
 A Smart AI Resume Reviewer where you can paste Job Requirement, Upload Resume, and let AI instantly evaluate and match candidates to the right roles.
 
