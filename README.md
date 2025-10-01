@@ -9,6 +9,8 @@ A Smart AI Resume Reviewer where you can paste Job Requirement, Upload Resume, a
 - Tailwind CSS
 - Puter JS
 
+## Live Link 🌐 - [Resume Reviewer](https://resume-reviewer-alpha.vercel.app/)
+
 ## Screenshots 🖼️
 
 ### Login Screen
